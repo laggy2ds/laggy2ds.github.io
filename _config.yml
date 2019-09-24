@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Nick Lagattuta - Cloud Engineer
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -8,12 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+email: nick@lagattuta.com
+description: Nick Lagattuta is a cloud engineer and is an AWS certified Solutions
+  Architect Associate and Sysops Administrator Associate.
 baseurl: 
 url: http://yourdomain.com
 twitter_username: jekyllrb
